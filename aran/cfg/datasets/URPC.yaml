@@ -1,0 +1,8 @@
+train: ../../../datasets/URPC/images/train/
+val: ../../../datasets/URPC/images/val/
+test: ../../../datasets/URPC/images/test/
+
+
+nc: 4
+
+names: ['holothurian', 'echinus', 'scallop', 'starfish']
